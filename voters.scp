@@ -1,0 +1,2 @@
+simu -b -mvoter.ma -t00:00:05:000 -lvoter.log
+drawlog -mvoter.ma -cvoter -lvoter.log -w5 -p2 > voter.drw
